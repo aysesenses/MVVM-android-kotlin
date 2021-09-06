@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVMproject</string>
+    <string name="addition">addıtıon</string>
+    <string name="multiplication">multıplıcatıon</string>
+    <string name="number_2">number 2</string>
+    <string name="number_1">number 1</string>
+</resources>
